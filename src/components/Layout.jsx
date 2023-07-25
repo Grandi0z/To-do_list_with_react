@@ -7,7 +7,6 @@ const Layout = () => (
     <AuthProvider>
       <Navbar />
       <Outlet />
-      <>text</>
     </AuthProvider>
   </div>
 );
