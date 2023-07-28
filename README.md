@@ -36,7 +36,7 @@
 
 # 📖 Math Magicians <a name="about-project"></a>
 
-**To do List** Calculator
+**Todo with react** 
 
 ## 🛠 Built With <a name="built-with"></a>
 

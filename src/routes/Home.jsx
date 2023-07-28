@@ -1,5 +1,5 @@
-import Header from '../components/Header';
 import TodoLogic from '../components/TodoLogic';
+import Header from '../components/Header';
 
 const Home = () => (
   // <div className="wrapper">
